@@ -17,6 +17,7 @@ body {
   margin: 15px auto;
 }
 .modal {
+  max-width: 330px;
   width: 100%;
   margin: 30px auto;
   padding: 10px;
